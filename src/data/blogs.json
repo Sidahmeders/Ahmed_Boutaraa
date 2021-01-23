@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Architectural Patterns & Tactics in Software Design",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://ahmedboutaraa.medium.com/architectural-patterns-tactics-b55bca66e6c3",
+    "created": "10 AUGUST, 2020"
+  },
+  {
+    "id": "2",
+    "title": "hypervisor, virtual-memory and swap-space",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://ahmedboutaraa.medium.com/hypervisor-virtual-memory-swap-space-31acbb8fa841",
+    "created": "22 June, 2020"
+  },
+  {
+    "id": "3",
+    "title": "notations for software architecture",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://dev.to/sidahmeders/notations-for-architecture-software-documentation-28oc",
+    "created": "25 Febuary, 2020"
+  },
+  {
+    "id": "4",
+    "title": "SaaS vs PaaS vs IaaS",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://ahmedboutaraa.medium.com/saas-vs-paas-vs-iaas-34ab1edef41d",
+    "created": "24 Febuary, 2020"
+  },
+  {
+    "id": "5",
+    "title": "Design Decisions in Systems Architecture",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://ahmedboutaraa.medium.com/design-decisions-in-systems-architecture-19dd1acbdde5",
+    "created": "31 December, 2019"
+  },
+  {
+    "id": "6",
+    "title": "what is UML and why do we need it in software architecture",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://dev.to/sidahmeders/what-is-uml-and-do-we-need-it-3g9o ",
+    "created": "30 September, 2019"
+  },
+  {
+    "id": "7",
+    "title": "Software Testing",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://dev.to/sidahmeders/software-testing-44mb",
+    "created": "27 August, 2019"
+  },
+  {
+    "id": "8",
+    "title": "ha-bazaf-akh",
+    "publisher": "Ahmed Boutaraa",
+    "blogLink": "https://dev.to/sidahmeders/software-testing-44mb",
+    "created": "22 August, 2019"
+  }
+]

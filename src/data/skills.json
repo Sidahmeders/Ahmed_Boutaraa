@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Development",
+    "icon": "fab fa-react",
+    "skillset": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "React-Native",
+      "Redux",
+      "Nextjs",
+      "Gatsby",
+      "SCSS",
+      "Responsive_Design",
+      "WebPack"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Backend Development",
+    "icon": "fab fa-node-js",
+    "skillset": [
+      "Node_JS",
+      "GraphQL",
+      "MYSQL",
+      "MongoDB",
+      "SQL",
+      "Express",
+      "REST",
+      "JEST-testing",
+      "Github-Actions",
+      "Linux",
+      "Nginx"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Version Control",
+    "icon": "fas fa-code-branch",
+    "skillset": ["Git", "Github"]
+  }
+]

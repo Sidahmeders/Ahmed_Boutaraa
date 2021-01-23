@@ -1,0 +1,259 @@
+[
+  {
+    "id": "1",
+    "title": "Amine DonTech",
+    "slug": "amine-donTech",
+    "url": "https://amineds.netlify.app",
+    "githubUrl": "https://github.com/Sidahmeders/dental-web-app",
+    "image": "../images/projects/amine-donTech.png",
+    "youtubeUrl": "",
+    "imageDetails": "../images/projects/amine-donTech.png",
+    "gif": "../images/projects/amine-donTech.gif",
+    "technologies": [
+      "react-js",
+      "REST",
+      "styled-components"
+    ],
+    "description": "Dental progressive web app for dentist to mange thier schedule and track thier patients records",
+    "contribution": "_"
+  },
+  {
+    "id": "2",
+    "title": "Cosmetic Retail Shop",
+    "slug": "cosmetic retail shop",
+    "url": "https://sido-cos.netlify.app/",
+    "githubUrl": "https://github.com/Sidahmeders/cosmetic-website",
+    "image": "../images/projects/cosmetic-shop.png",
+    "youtubeUrl": "",
+    "imageDetails": "../images/projects/cosmetic-shop.png",
+    "gif": "../images/projects/cosmetic-shop.gif",
+    "technologies": [
+      "react",
+      "styled-components",
+      "html",
+      "Scss"
+    ],
+    "description": "a cosmetic retail shop where i was working before. this shop is for selling makeups, perfumes, shampoo, ect..,",
+    "contribution": "_"
+  },
+  {
+    "id": "3",
+    "title": "Zouj Ou Haba Restuarant",
+    "slug": "Restuarant",
+    "url": "https://zoujouhaba.netlify.app/",
+    "githubUrl": "https://github.com/Sidahmeders/Restaurant_website",
+    "image": "../images/projects/zouj-haba.png",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SfKx1s_eONA",
+    "imageDetails": "../images/projects/zouj-haba.png",
+    "gif": "../images/projects/zouj-haba.gif",
+    "technologies": [
+      "react",
+      "html",
+      "css"
+    ],
+    "description": "zouj-ou-haba is very fancy restuarant that produces a diverse quality food and help those who want to impress thies love ones with a memorable place",
+    "contribution": "_"
+  },
+  {
+    "id": "4",
+    "title": "Exercise Tarcker",
+    "slug": "exercise tarcker",
+    "url": "https://exercises-app.herokuapp.com",
+    "githubUrl": "https://github.com/Sidahmeders/exercise-app",
+    "image": "../images/projects/exercise-tracker.png",
+    "imageDetails": "../images/projects/exercise-tracker.png",
+    "gif": "../images/projects/exercise-tracker.gif",
+    "technologies": [
+      "react",
+      "css",
+      "bootstrap 4",
+      "rest",
+      "api"
+    ],
+    "description": "Exercise Tarcker app that helps you keep track of your last exercises, manage, create, and share your workout among your friends",
+    "contribution": "_"
+  },
+  {
+    "id": "5",
+    "title": "SOKNA",
+    "slug": "sokna",
+    "url": "https://sido-real-estate.herokuapp.com/",
+    "githubUrl": "https://github.com/Sidahmeders/real_estate_website",
+    "image": "../images/projects/sokna.png",
+    "imageDetails": "../images/projects/sokna.png",
+    "gif": "../images/projects/sokna.gif",
+    "technologies": [
+      "node",
+      "express",
+      "mongoDB",
+      "react",
+      "styled-components",
+      "jwt",
+      "bcrypt-js"
+    ],
+    "description": "A web application that helps you buy, rent, and sale your home in click of button",
+    "contribution": "_"
+  },
+  {
+    "id": "6",
+    "title": "COVID 19",
+    "slug": "covid 19",
+    "url": "",
+    "githubUrl": "",
+    "image": "../images/projects/covid.png",
+    "imageDetails": "../images/projects/covid.png",
+    "gif": "",
+    "technologies": ["react", "css", "api", "chart-js"],
+    "description": "Covid 19 latest record",
+    "contribution": "_"
+  },
+  {
+    "id": "7",
+    "title": "JS Tutorials",
+    "slug": "js tutorials",
+    "url": "https://js-undefined.netlify.app/",
+    "githubUrl": "https://github.com/Sidahmeders/undefined",
+    "image": "../images/projects/js-unf.png",
+    "imageDetails": "../images/projects/js-unf.png",
+    "gif": "../images/projects/js-unf.gif",
+    "technologies": [
+      "React",
+      "scss"      
+    ],
+    "description": "A web application that guides you how to become a web devloper",
+    "contribution": "_"
+  },
+
+  {
+    "id": "8",
+    "title": "TIC TAC TOE",
+    "slug": "tic tac toe",
+    "url": "https://zoldik.netlify.app",
+    "githubUrl": "https://github.com/Sidahmeders/old-stuff/tree/main/Tic%20Tic%20Toe_game",
+    "image": "../images/projects/tic-tac.png",
+    "imageDetails": "../images/projects/tic-tac.png",
+    "gif": "../images/projects/tic-tac.gif",
+    "technologies": ["html", "css", "javascript"],
+    "description": "Tic Tac Toe",
+    "contribution": "_"
+  },
+  {
+    "id": "9",
+    "title": "my old portfolio",
+    "slug": "old habbit day hard",
+    "url": "https://sidahmed-boutaraa-portfolio.netlify.app/",
+    "githubUrl": "https://github.com/Sidahmeders/sidahmed-portfolio",
+    "image": "../images/projects/old-prt.png",
+    "imageDetails": "../images/projects/old-prt.png",
+    "gif": "../images/projects/old-prt.gif",
+    "technologies": [
+      "javascript",
+      "html",
+      "css"
+    ],
+    "description": "my old portfolio that i never acomplished and used",
+    "contribution": "_"
+  },
+  {
+    "id": "10",
+    "title": "XXX",
+    "slug": "xxx",
+    "url": "https://xxxxxx",
+    "githubUrl": "https://xxxxxx",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/default.png",
+    "gif": "../images/projects/default.gif",
+    "technologies": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "contribution": "_"
+  },
+  {
+    "id": "11",
+    "title": "XXX",
+    "slug": "xxx",
+    "url": "https://xxxxxx",
+    "githubUrl": "https://xxxxxx",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/default.png",
+    "gif": "../images/projects/default.gif",
+    "technologies": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "contribution": "_"
+  },
+  {
+    "id": "12",
+    "title": "XXX",
+    "slug": "xxx",
+    "url": "https://xxxxxx",
+    "githubUrl": "https://xxxxxx",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/default.png",
+    "gif": "../images/projects/default.gif",
+    "technologies": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "contribution": "_"
+  },
+  {
+    "id": "13",
+    "title": "XXX",
+    "slug": "xxx",
+    "url": "https://xxxxxx",
+    "githubUrl": "https://xxxxxx",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/default.png",
+    "gif": "../images/projects/default.gif",
+    "technologies": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "contribution": "_"
+  },
+  {
+    "id": "14",
+    "title": "XXX",
+    "slug": "xxx",
+    "url": "https://xxxxxx",
+    "githubUrl": "https://xxxxxx",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/default.png",
+    "gif": "../images/projects/default.gif",
+    "technologies": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "contribution": "_"
+  },
+  {
+    "id": "15",
+    "title": "XXX",
+    "slug": "xxx",
+    "url": "https://xxxxxx",
+    "githubUrl": "https://xxxxxx",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/default.png",
+    "gif": "../images/projects/default.gif",
+    "technologies": [
+      "XXX",
+      "XXX",
+      "XXX"
+    ],
+    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "contribution": "_"
+  }
+]
