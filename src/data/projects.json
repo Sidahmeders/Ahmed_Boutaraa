@@ -102,7 +102,7 @@
     "githubUrl": "https://github.com/Sidahmeders/cephalo-metric",
     "image": "../images/projects/covid.png",
     "imageDetails": "../images/projects/covid.png",
-    "gif": "",
+    "gif": "../images/projects/covid.gif",
     "technologies": ["react", "css", "api", "chart-js"],
     "description": "Covid 19 latest record",
     "contribution": "_"
