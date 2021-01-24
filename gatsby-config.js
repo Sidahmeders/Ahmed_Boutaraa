@@ -44,8 +44,8 @@ module.exports = {
         name: `Ahmed Boutaraa`,
         short_name: `AHMED`,
         start_url: `/`,
-        background_color: `#f5f5f5`,
-        theme_color: `#031a6b`,
+        background_color: `#fff`,
+        theme_color: `#fff`,
         display: `standalone`,
         icon: `src/images/logo.png`, // This path is relative to the root of the site.
       },
