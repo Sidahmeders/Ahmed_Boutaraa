@@ -23,7 +23,7 @@ export default function ContactDetail({ size, color, theme }) {
         <i className={githubClassName}></i>
       </a>
 
-      <a href="https://stackoverflow.com/users/11972667/ahmed-boutaraa">
+      <a href="https://www.linkedin.com/in/sodium-united-88a523171">
         <i className={linkedInClassName}></i>
       </a>
 
