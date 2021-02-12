@@ -31,11 +31,12 @@ export default function About({ theme }) {
         <div className="about-content">
           <h3>About Me</h3>
           <p>
-            Self-taught Software Engineer with a autodidactic open-closed mindset
-            seeking to develop a flexible, robust and easy to scale software and distributed 
-            systems. and I have been able to deliver a consistent approach throughout a period of 
-            challenges so far with committment to learning and self-development so that 
-            I can consistently achieve better results & the desired Quality Attributes.
+            I am high school dropout with retail and customer service jobs, and i started
+            programming and web developement in april 2019 till now. so i consider my self a
+            self-taught Software Engineer with a autodidactic mindset seeking to develop a 
+            flexible, robust and easy to scale software and distributed systems. 
+            and I have been able to deliver a consistent approach throughout a period of 
+            challenges so far with committment to learning and self-development.
           </p>
           
           <br/>

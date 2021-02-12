@@ -52,11 +52,8 @@ const SkillsList = ({ theme }) => {
               </h4>
 
               <h4>
-                Although I have done some frontEnd-Development with different technologies I
-                prefer backend-Engineering and building systems that are flexible and/or scale with {" "}
-                <span>(maintainability)</span>,<span> (modifiability)</span>, 
-                <span> (interoperability)</span> and <span> (fault tolerance)</span>. 
-                not to say that working on both sides of the coin is my pleasure.
+              Although I've a wide range of experience, the technology I prefer and/or am most 
+              familiar with includes React, Redux, Node, mysql, JavaScript ES6, Sass/CSS, HTML.
               </h4>
             </div>
           </div>
