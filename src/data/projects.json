@@ -1,20 +1,19 @@
 [
   {
     "id": "1",
-    "title": "Amine DonTech",
-    "slug": "amine-donTech",
-    "url": "https://amineds.netlify.app",
-    "githubUrl": "https://github.com/Sidahmeders/dental-web-app",
-    "image": "../images/projects/amine-donTech.png",
-    "youtubeUrl": "",
-    "imageDetails": "../images/projects/amine-donTech.png",
-    "gif": "../images/projects/amine-donTech.gif",
+    "title": "Sodium Agency",
+    "slug": "digital agency",
+    "url": "https://sodium-agnecy.netlify.app/",
+    "githubUrl": "https://github.com/Sidahmeders/sodium_agency",
+    "image": "../images/projects/default.png",
+    "imageDetails": "../images/projects/sodium.png",
+    "gif": "../images/projects/sodium.gif",
     "technologies": [
-      "react-js",
-      "REST",
-      "styled-components"
+      "Javascript",
+      "HTML5",
+      "CSS3"
     ],
-    "description": "Dental progressive web app for dentist to mange thier schedule and track thier patients records",
+    "description": "a simple website for a digital agency",
     "contribution": "_"
   },
   {
@@ -155,19 +154,20 @@
   },
   {
     "id": "10",
-    "title": "XXX",
-    "slug": "xxx",
-    "url": "https://xxxxxx",
-    "githubUrl": "https://xxxxxx",
-    "image": "../images/projects/default.png",
-    "imageDetails": "../images/projects/default.png",
-    "gif": "../images/projects/default.gif",
+    "title": "Amine DonTech",
+    "slug": "amine-donTech",
+    "url": "https://amineds.netlify.app",
+    "githubUrl": "https://github.com/Sidahmeders/dental-web-app",
+    "image": "../images/projects/amine-donTech.png",
+    "youtubeUrl": "",
+    "imageDetails": "../images/projects/amine-donTech.png",
+    "gif": "../images/projects/amine-donTech.gif",
     "technologies": [
-      "XXX",
-      "XXX",
-      "XXX"
+      "react-js",
+      "REST",
+      "styled-components"
     ],
-    "description": "xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx",
+    "description": "Dental progressive web app for dentist to mange thier schedule and track thier patients records",
     "contribution": "_"
   },
   {
