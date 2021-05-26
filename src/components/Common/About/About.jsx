@@ -31,20 +31,21 @@ export default function About({ theme }) {
         <div className="about-content">
           <h3>About Me</h3>
           <p>
-            Hi there, my name is Ahmed from Algeria
-            a self-taught Software Engineer with a autodidactic mindset seeking to develop a 
-            flexible, robust and easy to scale software and distributed systems. 
-            and I have been able to deliver a consistent approach throughout a period of 
-            challenges so far with committment to learning and self-development.
+            Hi there, my name is Ahmed from Algeria a self-taught Software
+            Engineer with a autodidactic mindset seeking to develop a flexible,
+            robust and easy to scale software and distributed systems by
+            following best practices and speed. and I have Designed and
+            developed web applications across multiple APIs, third - party
+            integrations and databases.
           </p>
-          <br/>
-          <br/>
+          <br />
+          <br />
 
           <p>
-            in my leisure i do calisthenics, jogging, boxing and sometimes i like to read 
-            fictional stories, solve puzzlez, learn about new topic or just hang around with friends.
+            in my leisure i do calisthenics, jogging, boxing and sometimes i
+            like to read fictional stories, solve puzzlez, learn about new topic
+            or just hang around with friends.
           </p>
-
         </div>
         <div className="about-image">
           <img src={data.aboutImage.childImageSharp.fluid.src} alt="profile" />

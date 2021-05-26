@@ -38,22 +38,27 @@ const SkillsList = ({ theme }) => {
 
             <div className="skills-body-content-details">
               <h4>
-                I am a Full-Stack Web Engineer with a passion for web technologies. 
-                and systems I write robust, clean, well-documented and re-usable code.
+                I am a Full-Stack Web Engineer with a passion for web
+                technologies. and systems I write robust, clean, well-documented
+                and re-usable code.
               </h4>
 
               <h4>
-                This means I strive to follow best practices and to create flexible
-                designs that are maintainable and that can cope with change and use 
-                industry-standard tools<span > git-flow</span>,
-                <span> Test Driven Development</span>,<span> Continous Integration</span>,
-                <span> linting</span>, <span> package management</span> and modern build tools (
+                This means I strive to follow best practices and to create
+                flexible designs that are maintainable and that can cope with
+                change and use industry-standard tools<span> git-flow</span>,
+                <span> Test Driven Development</span>,
+                <span> Continous Integration</span>,<span> linting</span>,
+                <span> package management</span> and modern build tools (
                 <span>Webpack, Babel</span>).
               </h4>
 
               <h4>
-              Although I've a wide range of experience, the technology I prefer and/or am most 
-              familiar with includes React, Redux, Node, mysql, JavaScript ES6, Sass/CSS, HTML.
+                Although I've a wide range of experience, the technology I
+                prefer and/or am most familiar with includes <span>React</span>,
+                <span>Redux</span>, <span>NodeJs</span>, <span>mysql</span>,
+                <span>mongodb</span>, <span>JavaScript ES6..</span>,
+                <span>Sass/CSS, HTML.</span>
               </h4>
             </div>
           </div>
